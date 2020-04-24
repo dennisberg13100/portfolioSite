@@ -10,7 +10,7 @@ $(function(){
 		var x = e.pageX;//Horizontal
 		var y = e.pageY;//Vertical
 
-		var ratio = pageY/60000;
+		var ratio = pageY/30000;
 		var desX = x - middleX;
 		var desY = y - middleY;
 
